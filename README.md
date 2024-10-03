@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Plant Disease Prediction System<br>🌱 I’m currently learning Cloud Platforms<br>⚡ Fun fact I use sarcasm as my coping mechanism
+🔭 I’m currently working on Plant Disease Prediction System<br>🌱 I’m currently learning GoLang<br>⚡ Fun fact I use sarcasm as my coping mechanism
 
 
 ## 🌐 Socials:

@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ResuMate - Your smart companion that speaks your resume for you and helps recruiters find the real you.<br>🌱 I’m currently learning GoLang and RAG Pipelines<br>⚡ Fun fact I use sarcasm as my coping mechanism
+🔭 I’m currently working on Refyn - Your smart companion that speaks your resume for you and helps recruiters find the real you.<br>🌱 I’m currently learning GoLang and RAG Pipelines<br>⚡ Fun fact I use sarcasm as my coping mechanism
 
 
 ## 🌐 Socials:

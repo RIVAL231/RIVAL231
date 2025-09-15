@@ -19,6 +19,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=rival231&limit=5&theme=blue-green&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rival231&icon=0&color=0)](https://visitcount.itsvg.in)
+![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frival231&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visits&edge_flat=false)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
